@@ -9,6 +9,7 @@
     }
     h1 {
       font-size: 70px;
+      padding: 5px;
     }
     img {
       margin: 40px 0px 0px 0px;
@@ -29,10 +30,6 @@
       margin: 0 auto;
     }
     @media (max-width: 500px) {
-      h1 {
-        font-size: 36px;
-        padding: 5px;
-      }
       li {
         padding: 5px;
         display: block;
